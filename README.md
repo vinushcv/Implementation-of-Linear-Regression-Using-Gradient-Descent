@@ -97,7 +97,33 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+# PROFIT PREDICTION:
+
+![image](https://github.com/vinushcv/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113975318/663312e7-94b6-4eaa-a129-c459b49ed615)
+
+# COST FUNCTION:
+
+![image](https://github.com/vinushcv/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113975318/80e46782-b5c5-4a5a-b96f-80e613f6597e)
+
+# GRADIENT DESCENT:
+
+![image](https://github.com/vinushcv/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113975318/389e7faa-3048-4f54-a7b8-3247cb2cbfaa)
+
+# COST FUNCTION USING GRADIENT DESCENT:
+
+![image](https://github.com/vinushcv/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113975318/64093117-4b4f-4269-9705-eee75865101c)
+
+# GRAPH WITH BEST FIT LINE (PROFIT PREDICTION):
+
+![image](https://github.com/vinushcv/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113975318/12e8d36c-ad89-41f3-8efb-2f704691361d)
+
+# PROFIT PREDICTION FOR A POPULATION OF 35,000:
+
+![image](https://github.com/vinushcv/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113975318/238ff11e-0de9-45f4-8253-aa9b8367f400)
+
+# PROFIT PREDICTION FOR A POPULATION OF 70,000:
+
+![image](https://github.com/vinushcv/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113975318/fdfa4649-75d3-47e4-9fc8-d41286f2699c)
 
 
 ## Result:
